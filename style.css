@@ -1,0 +1,17 @@
+body{
+    position: relative;
+    background-color: #fefae0;
+}
+
+ul.nav-pills{
+    top: 20px;
+    position: fixed;
+}
+div.col-sm-3 {
+    background-color: #8ECAE6;
+}
+div.col-sm-9 div{
+    height: 250px;
+    font-size: 20px;
+    
+}
